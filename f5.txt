@@ -1,1 +1,6 @@
 features of git
+Distributed
+speed
+reliable
+branching
+non-linear
